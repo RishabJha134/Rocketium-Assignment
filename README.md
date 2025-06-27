@@ -127,7 +127,7 @@ Response: PDF file download
 ## 🌐 Deployment
 
 - **Frontend**: Deployed on Vercel
-- **Backend**: Deployed on Vercel (Serverless Functions)
+- **Backend**: Deployed on OnRender (Serverless Functions)
 
 ## 👨‍💻 Developer
 
